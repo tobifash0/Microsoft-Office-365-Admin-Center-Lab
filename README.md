@@ -12,3 +12,14 @@ This repository documents my home lab project focused on exploring and understan
 
 ## Documentation
 In this lab we will focus on how to use and manage Office 365 and explore the different features it has. We can try Microsoft Office 365 for free for one month through their website. After entering our information, we should be able to access and use it for our own lab.
+
+<br> 
+
+![image](https://github.com/user-attachments/assets/da1df2d9-90e6-4afa-8cc2-a31a11af81a8)
+
+<br>
+
+With our information added, we can now begin exploring Office 365. Key features include the Users section, where we can manage user accounts, add new users, and reset passwords. In Teams, we can collaborate seamlessly through chats, group discussions, and scheduling meetings. Finally, the Subscriptions section allows us to manage payment methods, view invoices, and monitor license usage for active subscriptions.
+
+<br> 
+
